@@ -1,1 +1,1 @@
-# Check-Internet-Connection-html-javascript-css-
+# Check-Internet-Connection (HTML/JS/CSS)
