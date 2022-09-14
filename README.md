@@ -5,3 +5,5 @@
 
 # Example Screenshot when Offline (No internet):
 ![image](https://github.com/JiaLe0709/Picture-Storage/blob/main/offline.png)
+
+you can rename the text in *script.js*
